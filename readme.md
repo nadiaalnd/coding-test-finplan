@@ -5,6 +5,8 @@
 - [Author](#author)
 - [Documentation](#documentation)
   - [Logical Test](#Logic-Test)
+    - [How to run](#how-to-run)
+    - [Screenshots](#screenshots)
   - [Front End Test](#front-end-test)
 
 ## Author
