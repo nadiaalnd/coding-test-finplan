@@ -2,8 +2,10 @@
 
 ### Table Of Contents
 
-- [Logical Test](#Logic-Test)
-- [Front End Test](#front-end-test)
+- [Author](#author)
+- [Documentation](#documentation)
+  - [Logical Test](#Logic-Test)
+  - [Front End Test](#front-end-test)
 
 ## Author
 
