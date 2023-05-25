@@ -4,8 +4,7 @@
 echo "Masukkan nilai N: ";
 $N = trim(fgets(STDIN));
 
-echo "Masukkan nilai awal: ";
-$start = trim(fgets(STDIN));
+$start = 3;
 
 $i = 1;
 while ($i <= $N) {
