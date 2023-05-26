@@ -13,7 +13,6 @@
   - [How To Run?](#how-to-run-1)
   - [Screenshots](#screenshots-1)
     - [Profile](#profile)
-    -
 
 ## Author
 
