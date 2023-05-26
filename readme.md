@@ -12,11 +12,12 @@
 - [Front End Test](#front-end-test)
   - [How To Run?](#how-to-run-1)
   - [Screenshots](#screenshots-1)
-    - [Profile](#profile)
 
 ## Author
 
 - [@nadiaalnd](https://github.com/nadiaalnd)
+- Name : Nadila Aulya Salsabila Mirdianti
+- Email : nadila2244@gmail.com | nadilaaulya.sm@gmail.com
 
 # Documentation
 
