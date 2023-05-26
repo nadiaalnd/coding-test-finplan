@@ -1,23 +1,29 @@
 # Coding Test Finplan 5.0
 
-### Table Of Contents
+## Table Of Contents
 
 - [Coding Test Finplan 5.0](#coding-test-finplan-50)
+
   - [Table Of Contents](#table-of-contents)
   - [Author](#author)
+
 - [Documentation](#documentation)
 - [Logic Test](#logic-test)
+
   - [How To Run?](#how-to-run)
   - [Screenshots](#screenshots)
+  - [Notes](#notes)
+
 - [Front End Test](#front-end-test)
+
   - [How To Run?](#how-to-run-1)
   - [Screenshots](#screenshots-1)
+
+- [Contact](#contact)
 
 ## Author
 
 - [@nadiaalnd](https://github.com/nadiaalnd)
-- Name : Nadila Aulya Salsabila Mirdianti
-- Email : nadila2244@gmail.com | nadilaaulya.sm@gmail.com
 
 # Documentation
 
@@ -25,8 +31,16 @@
 
 ## How To Run?
 
-- cd Logic-Test
-- php `<name-file>`.php
+- Buka terminal atau command prompt
+- Masuk ke directory Logic_Test
+  > ```
+  > cd Logic_Test
+  > ```
+- Jalankan perintah
+  > ```
+  > php <name-file>.php
+  > ```
+
 
 ## Screenshots
 
@@ -57,14 +71,35 @@
 
   ![No 4](./Logic_Test/Screenshots/pattern.png)
 
+## Notes
+
+- pastikan Anda memiliki PHP terinstal di sistem Anda untuk menjalankan Logic_Test.
+- Contoh input dan output yang diberikan dalam tangkapan layar hanya untuk tujuan ilustrasi.
+
+
 # Front End Test
 
 ## How To Run?
 
-- cd Front End Test
-- cd profile-app
-- npm install
-- npm run dev
+- Buka terminal atau command prompt
+- Masuk ke directory Front_End_Test
+  > ```
+  > cd Front_End_Test
+  > ```
+- Buka folder project 'profile-app'
+  > ```
+  > cd profile-app
+  > ```
+- Install depedensi menggunakan npm
+  > ```
+  > npm install
+  > ```
+- Jalankan development server
+  > ```
+  > npm run dev
+  > ```
+- Buka http://localhost:3000 di browser Anda untuk melihat aplikasi yang berjalan.
+
 
 ## Screenshots
 
@@ -91,3 +126,13 @@
 ### Profil Terbaru
 
 ![Home Page](./Front_End_Test/Screenshots/result.png)
+
+---
+
+## Contact
+
+- Nadila Aulya Salsabila Mirdianti
+- Email :
+  - nadila2244@gmail.com
+  - nadilaaulya.sm@gmail.com
+- Instagram : [@nadiaalnd](https://instagram.com/nadiaalnd)
