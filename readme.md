@@ -61,6 +61,7 @@
 ## How To Run?
 
 - cd Front End Test
+- cd profile-app
 - npm install
 - npm run dev
 
